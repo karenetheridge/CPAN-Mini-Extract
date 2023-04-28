@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/CPAN-Mini-Extract-*/
+/CPAN-Mini-Extract-*.tar.gz
