@@ -70,7 +70,7 @@ use LWP::Online             0.03 ();
 use File::Find::Rule        0.30 ();
 use CPAN::Mini          1.111004 ();
 
-our $VERSION = '1.24';
+our $VERSION = '1.25';
 our @ISA     = 'CPAN::Mini';
 
 
